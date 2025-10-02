@@ -1,4 +1,4 @@
-user_id,gender,age,country,subscription_type,listening_time,songs_played_per_day,skip_rate,device_type,ads_listened_per_week,offline_listening,predicted_churn
+user_id,gender,age,country,subscription_type,listening_time,songs_played_per_day,skip_rate,device_type,ads_listened_per_week,predicted_churn,is_churned
 7499,Male,35,DE,Family,120,6,0.19,Desktop,0,1,0
 7500,Other,45,AU,Premium,216,4,0.02,Web,0,1,0
 7501,Male,29,IN,Family,292,21,0.43,Mobile,0,1,0
@@ -501,4 +501,5 @@ user_id,gender,age,country,subscription_type,listening_time,songs_played_per_day
 7998,Female,17,US,Free,81,62,0.33,Desktop,5,0,0
 7999,Female,34,IN,Student,245,94,0.27,Desktop,0,1,0
 8000,Other,45,AU,Free,210,68,0.46,Desktop,6,0,0
+
 
